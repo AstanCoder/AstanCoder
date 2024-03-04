@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+<p>I'm a fullstack web developer</p>
+
+<h3>My Skills</h3>
+<ul>
+  <li><b>React</b></li>
+  <li><b>Nodejs</b></li>
+  <li><b>Springboot</b></li>
+  <li><b>.Net Core</b></li>
+  <li><b>AWS</b></li>
+  <li><b>DevOps</b></li>
+</ul>
+
+<p>Feel free to ask me about anything</p>
+
 <!--
 **AstanCoder/AstanCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
